@@ -1,0 +1,9 @@
+[package]
+name = "summation_of_primes"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+primes = "0.3.0"
+
+

@@ -1,0 +1,1 @@
+/home/dave/dev/languages/py/ProjectEuler/simples/special_pythagorean_triplet/target/debug/special_pythagorean_triplet: /home/dave/dev/languages/py/ProjectEuler/simples/special_pythagorean_triplet/src/main.rs

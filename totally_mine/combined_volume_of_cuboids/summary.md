@@ -1,0 +1,4 @@
+- [ ] Gemini:       400847863693    (2s, wrong, initially non-executable code)
+- [ ] Chatgpt:      106909330       (1424s/23min, wrong)
+- [ ] Copilot:      319911885737    (200s, wrong)
+- [ ] Perplexity:   395988066046    (1s, wrong, after a lot of chat: 10 min solve)

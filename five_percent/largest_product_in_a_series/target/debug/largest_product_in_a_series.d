@@ -1,0 +1,1 @@
+/home/dave/dev/languages/py/ProjectEuler/simples/largest_product_in_a_series/target/debug/largest_product_in_a_series: /home/dave/dev/languages/py/ProjectEuler/simples/largest_product_in_a_series/src/main.rs

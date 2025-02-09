@@ -1,0 +1,8 @@
+[package]
+name = "n-th_prime"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+primes = "0.3.0"
+
